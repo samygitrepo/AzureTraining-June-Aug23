@@ -1,7 +1,7 @@
 # cloudzdevops-azure-training
                                     **CLOUDZ DEVOPS - Training Materials for Azure Cloud**
 
-**14/Jan/23**
+**10/Jun/23**
 
 > Cloud Fundamentals
 
@@ -11,13 +11,13 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**15/Jan/23**
+**11/Jun/23**
 
 **Demo-1: Installing Azure PowerShell**
 
 https://docs.microsoft.com/en-us/powershell/azure/azurerm/install-azurerm-ps?view=azurermps-6.13.0
 
-**Demo-2: Installing Azure PowerShell**
+**Demo-2: Installing Azure CLI**
 
 Install Azure CLI on Windows : https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 
@@ -40,7 +40,7 @@ https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-m
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**21/Jan/23**
+**17/Jun/23**
 
 Demo-1: Recource Group Lock
 
@@ -54,7 +54,7 @@ Demo-3: Move Resources using "Azure Resource Mover" tool from Azure Portal
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**22/Jan/23**
+**18/Jun/23**
 
 Demo-1: Creating a simple app service
 
@@ -62,7 +62,7 @@ Demo-2: App service plan demo with vertical and horizontal scaling
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**28/Jan/23**
+**24/Jun/23**
 
 Demo-1: App service deployment slots
 
@@ -74,7 +74,7 @@ Demo-3: Azure Function
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**29/Jan/23**
+**25/Jun/23**
 
 Demo-1: Azure API APPS
 https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
@@ -89,14 +89,14 @@ https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**05/Feb/23**
+**01/Jul/23**
 
 Netowrking basics : 
 Demo-1 : Creating VNET & Subnets
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**11/Feb/23**
+**02/Jul/23**
 
 DNS Basics : https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloudzdevops_onmicrosoft_com/ETigJnIZdQVJsAJjU2Smy6kBPPuJzwFccgJzcnYkWYSZVQ?e=W2vfSz
 
@@ -106,7 +106,7 @@ Demo-1 : Azure VM creation - https://cloudzdevops-my.sharepoint.com/:b:/g/person
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**12/Feb/23**
+**08/Jul/23**
 
 Azure VM Availability Set : 
 https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
@@ -119,7 +119,7 @@ Demo-1 : Azure VM Scale set - https://learn.microsoft.com/en-us/azure/virtual-ma
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**18/Feb/23**
+**09/Jul/23**
 
 Azure Availability Options : https://learn.microsoft.com/en-us/azure/virtual-machines/availability
 
@@ -131,7 +131,7 @@ Availability Zone : https://learn.microsoft.com/en-us/azure/virtual-machines/cre
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**19/Feb/23**
+**15/Jul/23**
 
 Azure Bastion : https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
 
@@ -139,7 +139,7 @@ Azure Virtual Desktop (AVD) : https://learn.microsoft.com/en-us/azure/virtual-de
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**25/Feb/23**
+**16/Jul/23**
 
 Azure Bastion Demo 
 
@@ -147,7 +147,7 @@ Azure Virtual Desktop (AVD) Demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**26/Feb/23**
+**22/Jul/23**
 
 Azure Automation Account : https://learn.microsoft.com/en-us/azure/automation/overview and it's demo
 
@@ -157,7 +157,7 @@ VNET - NSG Demo with Linux VM
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**4/Mar/23**
+**23/Jul/23**
 
 VNET Peering - Demo
 
@@ -167,7 +167,7 @@ Network Table / User defined routing (UDR) - Demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**5/Mar/23**
+**29/Jul/23**
 
 Application Security Group (ASG) - Demo
 
@@ -177,7 +177,7 @@ Azure Application Gateway (AAG) - Demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**11/Mar/23**
+**30/Jul/23**
 
 Azure Front Door (AFD) - Demo
 
@@ -187,7 +187,7 @@ Azure AD Intro - https://learn.microsoft.com/en-us/azure/active-directory/fundam
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**12/Mar/23**
+**05/Aug/23**
 
 Azure AD SSPR
 
@@ -203,7 +203,7 @@ Ref - https://learn.microsoft.com/en-us/azure/active-directory/conditional-acces
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**18/Mar/23**
+**06/Aug/23**
 
 Azure AD App Registration - Demo
 
@@ -223,7 +223,7 @@ Ref - https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**19/Mar/23**
+**12/Aug/23**
 
 Azure AZCopy
 
@@ -239,7 +239,7 @@ Ref - https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-extend
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**25/Mar/23**
+**13/Aug/23**
 
 Azure Backup and Restore : Create VM backup and Restore
 
@@ -251,7 +251,7 @@ Azure Recovery Services Vault : https://learn.microsoft.com/en-us/azure/backup/b
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**26/Mar/23**
+**19/Aug/23**
 
 Azure Monitoring - Application Insights, Network Insights, VM Insights
 
