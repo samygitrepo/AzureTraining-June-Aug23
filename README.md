@@ -5,6 +5,8 @@
 
 > Cloud Fundamentals
 
+> DevOps Fundamentals
+
 > Cloud & DevOps - Demand in the IT market
 
 > Azure Certifications
