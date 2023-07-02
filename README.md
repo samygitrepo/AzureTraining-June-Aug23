@@ -1,7 +1,7 @@
 # cloudzdevops-azure-training
                                     **CLOUDZ DEVOPS - Training Materials for Azure Cloud**
 
-**10/Jun/23**
+**16/Jun/23**
 
 > Cloud Fundamentals
 
@@ -13,7 +13,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**11/Jun/23**
+**17/Jun/23**
 
 **Demo-1: Installing Azure PowerShell**
 
@@ -42,7 +42,7 @@ https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-m
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**17/Jun/23**
+**24/Jun/23**
 
 Demo-1: Recource Group Lock
 
@@ -56,7 +56,7 @@ Demo-3: Move Resources using "Azure Resource Mover" tool from Azure Portal
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**18/Jun/23**
+**25/Jun/23**
 
 Demo-1: Creating a simple app service
 
@@ -64,7 +64,7 @@ Demo-2: App service plan demo with vertical and horizontal scaling
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**24/Jun/23**
+**2/Jul/23**
 
 Demo-1: App service deployment slots
 
@@ -74,31 +74,27 @@ CRON Expression example : https://crontab.guru/examples.html
 
 Demo-3: Azure Function
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-**25/Jun/23**
-
-Demo-1: Azure API APPS
+Demo-4: Azure API APPS
 https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 https://learn.microsoft.com/en-us/azure/api-management/import-and-publish
 
-Demo-2: Azure CDN
+Demo-5: Azure CDN
 https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint
 
-Demo-3: Azure Logic Apps
+Demo-6: Azure Logic Apps
 https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**01/Jul/23**
+**08/Jul/23**
 
 Netowrking basics : 
 Demo-1 : Creating VNET & Subnets
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**02/Jul/23**
+**09/Jul/23**
 
 DNS Basics : https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloudzdevops_onmicrosoft_com/ETigJnIZdQVJsAJjU2Smy6kBPPuJzwFccgJzcnYkWYSZVQ?e=W2vfSz
 
